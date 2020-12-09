@@ -1,4 +1,4 @@
-# Estructura.de.datos.Java
-Curso de estructura de datos
+# Data structure in Java
 
-This document only can be opened with IntelliJ IDEA
+
+This project only can be opened with IntelliJ IDEA
